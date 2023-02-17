@@ -1,0 +1,9 @@
+*.tlog
+*.idb
+*.pdb
+*.obj
+*.lastbuildstate
+*.recipe
+*.log
+*.ilk
+.vs/
